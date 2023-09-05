@@ -7,7 +7,7 @@ h1, h2{text-align: center;}
 
 /* Style du body */
 * {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   background-color: black;
 }
